@@ -1,5 +1,5 @@
 ![Cover](images/Phishing_%20Ciberoc%C3%A9ano%20en%20Alerta%20largo.png)
-# 🎣 Phishing: How It Works, Why It Persists, and How We Fight Back
+                                                       🎣        🎣
 
 ### A hands-on cybersecurity awareness project — simulated phishing campaign, departmental risk analysis, and employee training recommendations.
 
