@@ -14,15 +14,15 @@ This repository documents the work I did as part of a hands-on cybersecurity pro
 
 Each topic lives in its own file so it can be read as a standalone module, presented individually, or combined into a slide deck:
 
-- `01-what-is-phishing.md`
-- `02-why-phishing-matters.md`
-- `03-types-of-phishing.md`
-- `04-how-phishing-attacks.md`
-- `05-what-phishing-exploits.md`
-- `06-why-everyone-is-vulnerable.md`
-- `07-simulated-phishing-examples.md`
-- `08-campaign-results-and-department-risk.md`
-- `09-prevention-and-response.md`
+- `01-what is phishing`
+- `02-why phishing matters`
+- `03-types of phishing`
+- `04-how phishing attacks`
+- `05-what phishing exploits`
+- `06-why everyone is vulnerable`
+- `07-simulated phishing examples`
+- `08-campaign results and department risk`
+- `09-preventionand response`
 
 ---
 
